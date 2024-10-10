@@ -1,5 +1,5 @@
 # JM-Lab-week-4---GitHub-Pages-and-github.dev-editor
-
+# wk6
 [CLI commands](docs/cli.md)
 
 ## Keyboard shortcuts
