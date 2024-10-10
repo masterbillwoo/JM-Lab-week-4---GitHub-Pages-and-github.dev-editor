@@ -9,3 +9,4 @@
 8. cls
 9. help
 10. ping
+hi
