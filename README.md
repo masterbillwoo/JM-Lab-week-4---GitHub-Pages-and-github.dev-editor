@@ -18,3 +18,5 @@ Shortcuts I would like to start using:
 - Win-I (settings)
 - Win-D (show desktop)
 - Super-Hyper-Meta-F (I don’t even have such keys, but it sounds impressive)
+
+new message you cant see this unless merge bro
