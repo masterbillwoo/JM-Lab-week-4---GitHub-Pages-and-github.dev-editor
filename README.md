@@ -1,5 +1,7 @@
 # JM-Lab-week-4---GitHub-Pages-and-github.dev-editor
 
+[CLI commands](docs/cli.md)
+
 ## Keyboard shortcuts
 Shortcuts I frequently use: 
 - Ctrl-C (copy)
